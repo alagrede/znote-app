@@ -12,3 +12,7 @@ znote.lagrede.fr public repository
 
 ## Report bugs
 Feel free to use the issues section.
+
+
+## Credits
+Build with [Electron](electronjs.org) and [React](https://fr.reactjs.org/)
