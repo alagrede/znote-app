@@ -1,7 +1,7 @@
 ## What is Znote?
 Znote is a Beautiful and free markdown editor, built to secure notes.
 Available on all platforms.
-[https://znote.lagrede.fr](https://znote.lagrede.fr)
+[https://znote.io](https://znote.io)
 
 ![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github.png)
 
@@ -13,8 +13,8 @@ You can also download Linux and alternative binaries from the [Github releases](
 ## Contact
 Email: lagrede.anthony[at]gmail.com
 
-This public repository
-znote.lagrede.fr public repository
+This public website
+znote.io public website
 
 ## Report bugs
 Feel free to use the [issues](https://github.com/alagrede/znote-app/issues) section.
