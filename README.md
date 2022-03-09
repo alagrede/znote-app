@@ -1,4 +1,5 @@
 ## What is Znote?
+
 **Znote** is a Beautiful markdown editor inspired by Jupyter.
 
 Your best companion for **prototyping** and centralizing your **scripts**.
@@ -9,6 +10,7 @@ Your best companion for **prototyping** and centralizing your **scripts**.
 ![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github1.png)
 
 ![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github2.png)
+
 
 
 ## Download
