@@ -1,9 +1,15 @@
 ## What is Znote?
-Znote is a Beautiful and free markdown editor, built to secure notes.
-Available on all platforms.
+**Znote** is a Beautiful markdown editor inspired by Jupyter.
+
+Your best companion for **prototyping** and centralizing your **scripts**.
+
+
 [https://znote.io](https://znote.io)
 
-![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github.png)
+![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github1.png)
+
+![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github2.png)
+
 
 ## Download
 App is available on Windows/Mac Store.
