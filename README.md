@@ -9,7 +9,7 @@ Your best companion for **prototyping** and centralizing your **scripts**.
 
 ![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github1.png)
 
-![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github2.png)
+![Screenshot](https://github.com/alagrede/znote-app/blob/master/screenshot-github3.png)
 
 
 
