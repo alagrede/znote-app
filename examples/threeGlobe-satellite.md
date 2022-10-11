@@ -1,5 +1,11 @@
 # Satellites demo
 
+**Install scripts**
+- three - `https://unpkg.com/three@0.145.0/build/three.js`
+- threeControls - `https://unpkg.com/three/examples/js/controls/TrackballControls.js`
+- threeGlobe - `https://unpkg.com/three-globe@2.24.8/dist/three-globe.min.js`
+- satellite - `https://unpkg.com/satellite.js/dist/satellite.min.js`
+
 ```js scripts=three,threeControls,threeGlobe,satellite
 //hide
 const EARTH_RADIUS_KM = 6371; // km
