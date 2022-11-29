@@ -3,6 +3,9 @@
 - If you import unknown code into your application, make sure you understand it before you run it.
 You are responsible for the proper use of your application. We decline all responsibility for any damages that may result from the use of this application.
 
+## Supported Versions
+Currently we support the major version `V1.X`. All older versions should be updated.
+
 ## Reporting a Vulnerability
 If you want report a vulnerability, please use this email:
 contact[at]alc-digital.fr 
