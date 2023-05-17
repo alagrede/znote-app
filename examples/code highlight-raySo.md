@@ -15,5 +15,5 @@ const PADDING="64"
 const LANGUAGE="auto"
 const TITLE="Untitled-1"
 const CODE=btoa(loadBlock("code"))
-open(`https://ray.so/?colors=${COLORS}&background=${BACKGROUND}&darkMode=${DARK_MODE}&padding=${PADDING}&title=${TITLE}&code=${CODE}&language=${LANGUAGE}`)
+open(`https://ray.so/#colors=${COLORS}&background=${BACKGROUND}&darkMode=${DARK_MODE}&padding=${PADDING}&title=${TITLE}&code=${CODE}&language=${LANGUAGE}`)
 ```
