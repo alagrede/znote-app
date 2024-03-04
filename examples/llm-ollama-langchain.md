@@ -99,12 +99,12 @@ export default class LocalAssistantAPI {
 
     const questionPrompt = PromptTemplate.fromTemplate(
         `In addition to your knowledge, you can optionally use the following pieces of context to answer the question at the end.
-  ----------
-  CONTEXT: {context}
-  ----------
-  QUESTION: {question}
-  ----------
-  Helpful Answer:`
+----------
+CONTEXT: {context}
+----------
+QUESTION: {question}
+----------
+Helpful Answer:`
     );
 
 
