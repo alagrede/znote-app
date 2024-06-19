@@ -1,4 +1,24 @@
-# Znote - The note-taking app for Doers
+<p align="center">
+    <a href="https://znote.io">
+    <img width="50" alt="znote logo" src="https://github.com/alagrede/znote-app/assets/5312754/ea8fcb93-1dc9-4938-9fba-a8e5ae667873">
+    </a>
+</p>
+
+<h1 align="center">
+  Znote - The note-taking app for Doers
+</h1>
+
+<p align="center">
+  <a href="https://znote.io">Website</a>
+  ·
+  <a href="#installation">Installation</a>
+  ·
+  <a href="https://blog.znote.io">Blog</a>
+</p>
+
+<a href="https://www.youtube.com/watch?v=7PiqfG-BYdQ">
+  <img width="1000" alt="editor-wysiwyg" src="https://github.com/alagrede/znote-app/assets/5312754/0dff4417-276a-4870-90dc-507806ecb323">
+</a>
 
 **Znote** is your ultimate note-taking companion that transforms your simple notes into actionable steps. Designed with developers and productivity enthusiasts in mind, Znote leverages the power of Markdown and JavaScript to make your notes more dynamic and interactive.
 
@@ -6,7 +26,6 @@
 
 Znote is a note-taking app that not only allows you to capture your thoughts but also enables you to create **dashboards** and **automate tasks** directly within your notes. With the integration of **templates and AI**, Znote simplifies complex tasks and **boosts your productivity**.
 
-<img width="1000" alt="editor-wysiwyg" src="https://github.com/alagrede/znote-app/assets/5312754/0dff4417-276a-4870-90dc-507806ecb323">
 
 ### Key Features:
 
